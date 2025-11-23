@@ -1,4 +1,4 @@
-# ⚡ LSBS_Main_Project3_Electricity_Fare_Prediction  
+# ⚡ 전기요금 예측 및 전력 모니터링 대시보드  
 ---
 
 ## 📘 프로젝트 개요
