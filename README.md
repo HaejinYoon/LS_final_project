@@ -1,10 +1,4 @@
 # ⚡ LSBS_Main_Project3_Electricity_Fare_Prediction  
-전기요금 예측 및 전력 모니터링 대시보드 (4인)
-
-> 공장 단위 **15분 실측 전력 데이터**를 활용해  
-> **전기요금을 예측**하고 **주요 전력 지표를 모니터링**하는 AI 기반 대시보드 프로젝트  
-> *Electricity Fare Prediction & Monitoring Dashboard based on Power Consumption Data*
-
 ---
 
 ## 📘 프로젝트 개요
@@ -36,8 +30,6 @@
 | `전력요금` | 해당 구간의 전기요금 (타깃 변수) |
 | `역률` | 전력 효율 지표 |
 | `작업유형` | 생산 / 휴식 / 점검 등 공정 상태 구분 |
-
-> ※ 기업 보안상 실제 데이터는 repo에 포함되어 있지 않을 수 있으며, 재현 시 별도 경로 설정이 필요합니다.
 
 ---
 
